@@ -37,8 +37,6 @@
  + 3、Node环境
  + 4、JDK1.8
 
-
-<div STYLE="page-break-after: always;"></div>
  
 ### 三、快速启动
 ##### 1、前端部分
@@ -55,6 +53,8 @@ npm run serve        // 开启服务器，浏览器访问 http://localhost:8080
 
 npm run build        // 执行构建命令，生成的dist文件夹放在服务器下即可访问
 ```
+
+<div STYLE="page-break-after: always;"></div>
 
 ##### 2、后端部分
 ```
