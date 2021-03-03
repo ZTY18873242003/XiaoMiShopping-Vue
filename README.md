@@ -36,6 +36,9 @@
  + 2、MySQL 8.0+版本
  + 3、Node环境
  + 4、JDK1.8
+
+
+<div STYLE="page-break-after: always;"></div>
  
 ### 三、快速启动
 ##### 1、前端部分
